@@ -2,7 +2,7 @@
 # Hi, I'm Pulkit Singhal! 👋
 
 ## About Me 📜
-I'm Pulkit, a frontend developer navigating the vast landscape of web development. With a solid foundation in HTML, Tailwind CSS, JavaScript, and React.js, I strive to create clean and effective user interfaces. On the backend, I've been exploring the world of Node.js, MongoDB, and Express.
+I'm Pulkit Singhal, a frontend developer navigating the vast landscape of web development. With a solid foundation in HTML, Tailwind CSS, JavaScript, and React.js, I strive to create clean and effective user interfaces. On the backend, I've been exploring the world of Node.js, MongoDB, and Express.
 
 
 ##  My Toolkit 🔧
@@ -13,7 +13,6 @@ __React.js__: Creating responsive and dynamic user interfaces.
 ## Learning Journey 🌱
 Currently, I'm on a journey of continuous learning, exploring:
 
-- Next.js
 - Node.js
 - MongoDB
 - Express
